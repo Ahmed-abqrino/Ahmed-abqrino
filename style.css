@@ -144,6 +144,9 @@ nav ul a{
     nav ul a{
         font-size: 12px;
     }
+    .content{
+        overflow: auto;
+    }
 }
 
 
